@@ -8,4 +8,4 @@ $nga-theme: mat-light-theme($nga-primary, $nga-accent, $nga-warn);
 
 $nga-background: map-get($nga-theme, background);
 $nga-foreground: map-get($nga-theme, foreground);
-$nga-typography: map-typography-config();
+$nga-typography: mat-typography-config();
